@@ -5,6 +5,6 @@
     </head>
     <body>
     <h1>Chat Room</h1>
-        <p>Chat room designed and developed using Node.js, MongoDB, Socket.IO, Heroku, HTML, and, CSS. </p>
+        <p>Chat room designed and developed using MongoDB, Express, Angular, Node.js, Socket.IO, HTML5, and CSS </p>
   </body>
 </html>
