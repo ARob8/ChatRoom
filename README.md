@@ -1,4 +1,4 @@
-# MEAN Stack Chat Room
+# Real-time Chat Room
 
 ## Description
 
