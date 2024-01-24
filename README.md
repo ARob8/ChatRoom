@@ -1,13 +1,15 @@
-<!DOCTYPE html>
-<html>
-    <head>
-      <meta charset="utf=8">
-    </head>
-    <body>
-    <h1>Chat Room</h1>
-    <ul>
-        <li><h3>Simple chat room built using the MEAN Stack.<h3></li>
-        <li><h3>MongoDB, Express, Angular, Node.js, Socket.IO, HTML5, and CSS3.</h3></li>
-    </ul>
-  </body>
-</html>
+# MEAN Stack Chat Room
+
+## Description
+
+A simple chat room that allows users to communicate in real time. It leverages the power of the MEAN Stack to provide a robust and efficient chat application.
+
+## Technologies Used
+
+- MongoDB: Database for storing chat messages and user data.
+- Express: Node.js framework used for building the backend.
+- Angular: Frontend framework for creating the user interface.
+- Node.js: Server-side JavaScript runtime.
+- Socket.IO: Real-time communication library for enabling chat functionality.
+- HTML5: Used for structuring the web page.
+- CSS3: Used for styling the user interface.
