@@ -1,11 +1,9 @@
 # Real-time Chat Room
 
 ## Description
-
 A simple chat room that allows users to communicate in real time. It leverages the power of the MEAN Stack to provide a robust and efficient chat application.
 
 ## Technologies
-
 - MongoDB: Database for storing chat messages and user data.
 - Express: Node.js framework used for building the backend.
 - Angular: Frontend framework for creating the user interface.
